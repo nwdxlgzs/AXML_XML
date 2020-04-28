@@ -3,7 +3,7 @@ axml和xml互转工程
 
 lua调用demo
 <br/>
-
+`
 import"com.nwdxlgzs.utils.xml.export.*"
 --解码
 AXMLparser().parse(输入,输出)
