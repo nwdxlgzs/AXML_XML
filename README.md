@@ -3,22 +3,13 @@ axml和xml互转工程
 
 lua调用demo
 <br/>
-`
+
 import"com.nwdxlgzs.utils.xml.export.*"
-`<br/>
-`
 --解码
-`
-<br/>
-`
 AXMLparser().parse(输入,输出)
-`
-<br/>
-`
+str=AXMLparser().parse(输入)
 --编码
-`
-<br/>
-`
 XMLparser().parse(activity,输入,输出)
+byte=XMLparser().parse(activity,输入)
 `
 
