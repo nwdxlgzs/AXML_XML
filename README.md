@@ -1,9 +1,8 @@
 # AXML_XML
 axml和xml互转工程
 
-lua调用demo
+`lua`调用demo
 <br/>
-`lua`
 ```lua
 import"com.nwdxlgzs.utils.xml.export.*"
 --解码
